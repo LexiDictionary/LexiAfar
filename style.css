@@ -1,9 +1,8 @@
-/* Brand-compliant dictionary styling for Afar */
 :root {
-  --brand-primary: #0E3787;    /* Deep blue */
-  --brand-secondary: #0B7D26;  /* Green */
-  --brand-tertiary: #730111;   /* Maroon */
-  --brand-light: #D2D2D2;      /* Light gray */
+  --brand-primary: #0E3787;
+  --brand-secondary: #0B7D26;
+  --brand-tertiary: #730111;
+  --brand-light: #D2D2D2;
   --brand-bg: #F8F8F8;
   --text-primary: #1a1a1a;
   --text-secondary: #4a4a4a;
